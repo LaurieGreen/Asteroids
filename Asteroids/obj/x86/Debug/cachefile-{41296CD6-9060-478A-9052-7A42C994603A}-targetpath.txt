@@ -1,0 +1,15 @@
+Content\models\roid.xnb
+Content\models\ship.xnb
+Content\models\roidtexture_0.xnb
+Content\models\shiptexture_0.xnb
+Content\background.xnb
+Content\particles\diamond.xnb
+Content\particles\star.xnb
+Content\particles\rectangle.xnb
+Content\particles\circle.xnb
+Content\models\pea_proj.xnb
+Content\models\pea_proj_0.xnb
+Content\sound\engine_2.xnb
+Content\sound\explosion2.xnb
+Content\sound\explosion3.xnb
+Content\sound\tx0_fire1.xnb
